@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 23 Jul 2022 20:36:37 at https://infiserum.wixsite.com/lynx +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://infiserum.wixsite.com/lynx -O1 "C:\My Web Sites\Lynx" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:36:48	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/decodeURIComponent(e (from https://infiserum.wixsite.com/lynx)
+20:36:48	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/sitemap.xml (from https://infiserum.wixsite.com/lynx)
+20:36:48	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/feed.xml (from https://infiserum.wixsite.com/lynx)
+20:36:48	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/ (from https://infiserum.wixsite.com/lynx)
+20:36:48	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/version/ (from https://infiserum.wixsite.com/lynx)
+20:36:48	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/da6c52cb.min.css (from https://infiserum.wixsite.com/lynx)
+20:36:48	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/b604fd33.min.css (from https://infiserum.wixsite.com/lynx)
+20:36:48	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/ffcbad4e.min.css (from https://infiserum.wixsite.com/lynx)
+20:36:48	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/b3e8ff7e.min.css (from https://infiserum.wixsite.com/lynx)
+20:36:48	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/34b72cf9.min.css (from https://infiserum.wixsite.com/lynx)
+20:36:48	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/534cc6f7.chunk.min.js (from https://infiserum.wixsite.com/lynx)
+20:36:48	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/rb_wixui.thunderbolt~bootstrap-classic.2f3900b1.chunk.min.js (from https://infiserum.wixsite.com/lynx)
+20:36:48	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/rb_wixui.thunderbolt~bootstrap.c6cf2eb1.chunk.min.css (from https://infiserum.wixsite.com/lynx)
+20:36:48	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/rb_wixui.thunderbolt~bootstrap.534cc6f7.chunk.min.js (from https://infiserum.wixsite.com/lynx)
+20:36:57	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/lynx/decodeURIComponent(e (from https://infiserum.wixsite.com/lynx/commands)
+20:36:57	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/lynx/robots.txt (from https://infiserum.wixsite.com/lynx/commands)
+20:36:57	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/lynx/feed.xml (from https://infiserum.wixsite.com/lynx/commands)
+20:36:57	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/lynx/version/ (from https://infiserum.wixsite.com/lynx/commands)
+20:36:57	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/lynx/da6c52cb.min.css (from https://infiserum.wixsite.com/lynx/commands)
+20:36:57	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/lynx/b604fd33.min.css (from https://infiserum.wixsite.com/lynx/commands)
+20:36:57	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/lynx/ffcbad4e.min.css (from https://infiserum.wixsite.com/lynx/commands)
+20:36:57	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/lynx/b3e8ff7e.min.css (from https://infiserum.wixsite.com/lynx/commands)
+20:36:57	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/lynx/34b72cf9.min.css (from https://infiserum.wixsite.com/lynx/commands)
+20:36:57	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/lynx/534cc6f7.chunk.min.js (from https://infiserum.wixsite.com/lynx/commands)
+20:36:57	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/lynx/rb_wixui.thunderbolt~bootstrap-classic.2f3900b1.chunk.min.js (from https://infiserum.wixsite.com/lynx/commands)
+20:36:57	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/lynx/rb_wixui.thunderbolt~bootstrap.c6cf2eb1.chunk.min.css (from https://infiserum.wixsite.com/lynx/commands)
+20:36:57	Error: 	"Not Found" (404) at link https://infiserum.wixsite.com/lynx/rb_wixui.thunderbolt~bootstrap.534cc6f7.chunk.min.js (from https://infiserum.wixsite.com/lynx/commands)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 seconds : 52 links scanned, 24 files written (1925061 bytes overall) [844617 bytes received at 42230 bytes/sec], 1697024 bytes transferred using HTTP compression in 40 files, ratio 28%, 4.7 requests per connection
+(27 errors, 0 warnings, 0 messages)

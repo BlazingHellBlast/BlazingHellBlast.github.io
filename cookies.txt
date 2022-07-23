@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+infiserum.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1658572598|uT1JAifdi9sX
+infiserum.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+infiserum.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=ause1
+
